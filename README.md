@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## 안녕하세요 !! 저는 ✨김창영✨ 반장입니다. 만나서 반갑습니다~~^^
+자소서 쓰는 페이지..
 <!--
 **kcy0521/kcy0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
